@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Code Geek</string>
+    <string name="php">
+        Sejarah PHP bermula pada tahun 1994 ketika programmer kelahiran Denmark yang sekarang berdomisili di Canada, Rasmus Lerdorf membuat sebuah script (kode program) dengan bahasa Perl untuk web pribadinya. Salah satu kegunan script ini adalah untuk menampilkan resume pribadi dan mencatat jumlah pengunjung ke sebuah website.
+    Lerdorf menyebut kode program ini sebagai Personal Home Page/Forms Interpreter atau PHP/FI. Inilah asal mula penamaan PHP digunakan. PHP/FI dapat digunakan untuk membuat aplikasi web dinamis sederhana.
+    Seiring dengan pengembangan dan penambahan fitur web pada saat itu, pada April 1996, Rasmus Lerdorf mengumumkan PHP/FI versi 2.0. PHP versi 2 ini dirancang Lerdorf pada saat mengerjakan sebuah proyek di University of Toronto yang membutuhkan pengolahan data dan tampilan web yang rumit. PHP/FI versi 1 sebenarnya sudah mencukupi, namun performa yang dihasilkan dirasakan belum cukup, sehingga butuh penambahan fitur lanjutan.
+    Evolusi PHP berikutnya terjadi pada pertengahan tahun 1997, PHP versi 2 telah menarik banyak perhatian programmer, namun bahasa ini memiliki masalah dengan kestabilan yang kurang bisa diandalkan. Hal ini lebih dikarenakan Lerdorf hanya bekerja sendiri untuk mengembangkan PHP.
+    Segera setelahnya, Zeev Suraski, Andi Gutmans dan juga berbagai programmer di seluruh dunia mengembangkan PHP lebih jauh lagi dengan memperkenalkan banyak fitur lanjutan, seperti layer abstraksi antara PHP dengan web server, menambahkan mekanisme thread-safety, dan two-stage parsing. Parsing baru ini dikembangkan oleh Zeev dan Andi, dan dinamakan Zend engine. Akhirnya pada 22 May 2000 diluncurkan PHP 4.0
+    Versi PHP terakhir hingga saat ini, yaitu PHP 5.x diluncurkan pada 13 Juli 2004. PHP 5 telah mendukung penuh pemrograman object dan peningkatan performa melalui Zend engine versi 2.
+    Versi lanjutan dari PHP, yakni PHP 6.x  sebenarnya telah lama dikembangkan, bahkan sejak tahun 2005. Fokus pengembangan PHP 6 terutama dalam mendukung Unicode, agar PHP bisa mendukung berbagai jenis karakter bahasa non-latin.
+    Pada tahun 2014, sebuah proyek lanjutan PHP mulai mengemuka, yakni PHP 7. Kalangan programmer sedikit bingung dengan penamaan versi PHP yang akan dirilis ini, apakah akan menyebutnya sebagai PHP 6 atau PHP 7. Walaupun PHP versi 6 telah resmi ditinggalkan, namun banyak artikel dan buku yang ditulis mengenai PHP 6. Setelah mengambil voting, nama PHP versi 7 akhirnya menjadi keputusan final. Dengan demikian, kita tidak akan melihat PHP versi 6, dan langsung ‘loncat’ ke PHP 7.</string>
+    <string name="ruby">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus consequat mollis risus non porta. Nulla et suscipit massa. In semper sapien posuere purus gravida tempor. Pellentesque ac volutpat ligula, quis lacinia lorem. Donec libero justo, tempor id tellus nec, venenatis egestas elit. Proin et sodales nunc. Praesent nec nisl nisl.</string>
+    <string name="java">Test</string>
+    <string name="swift">Test</string>
+    <string name="nodejs">Test</string>
+    <string name="jquery">Test</string>
+    <string name="python">test</string>
+    <string name="c">ghjk</string>
+    <string name="javascript">hbsjhf</string>
+    <string name="css">dgfsjh</string>
+</resources>
